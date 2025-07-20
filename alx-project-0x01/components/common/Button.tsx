@@ -1,6 +1,8 @@
 const Button:React.FC = ()=> {
     return(
-        <div></div>
+        <div>
+            button
+        </div>
     )
 }
 
